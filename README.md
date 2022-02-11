@@ -2,7 +2,7 @@
 
 ## SAITS
 
-Code repository for paper "SAITS: Self-Attention-based Imputation for Time Series", submitted to NeurIPS (2021).
+Code repository for paper "SAITS: Self-Attention-based Imputation for Time Series", submitted to NeurIPS (2021) and implemented with pyTorch.
 
 https://github.com/WenjieDu/SAITS
 
